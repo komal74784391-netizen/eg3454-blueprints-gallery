@@ -5,7 +5,6 @@ status: published
 domain: finance-ops
 owner_team: Finance Automation
 first_published: 2024-04-02
-code_repo: https://github.com/komal74784391-netizen/eg3454-impl-invoice-reconciliation
 ---
 
 # Invoice Reconciliation

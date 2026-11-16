@@ -5,7 +5,7 @@ status: published
 domain: customer-success
 owner_team: CS Enablement
 first_published: 2024-05-21
-code_repo: https://github.com/komal74784391-netizen/eg3454-impl-churn-signal-digest
+code_repo: https://github.com/blueprint-mirrors/eg3454-impl-churn-signal-digest
 ---
 
 # Churn Signal Digest
