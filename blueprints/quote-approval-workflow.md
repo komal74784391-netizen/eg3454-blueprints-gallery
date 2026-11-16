@@ -5,7 +5,6 @@ status: published
 domain: revenue-ops
 owner_team: Revenue Systems
 first_published: 2026-10-02
-code_repo: https://github.com/komal74784391-netizen/eg3454-impl-quote-approval-workflow
 ---
 
 # Quote Approval Workflow
