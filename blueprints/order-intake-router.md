@@ -5,7 +5,6 @@ status: published
 domain: revenue-ops
 owner_team: Revenue Systems
 first_published: 2024-03-18
-code_repo: https://github.com/komal74784391-netizen/eg3454-impl-order-intake-router
 ---
 
 # Order Intake Router
